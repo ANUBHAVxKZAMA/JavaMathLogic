@@ -37,11 +37,10 @@ This project is part of my core Java revision and logic-building practice before
 
 **Anubhav Srivastava**  
 GitHub: [@ANUBHAVxKZAMA](https://github.com/ANUBHAVxKZAMA)
-
 ---
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
    
    
