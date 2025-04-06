@@ -1,6 +1,6 @@
 # Java Math Logic
 
-A collection of basic to intermediate Java programs focusing on mathematical logic implementation using loops and conditional statements — **no shortcuts, just raw logic**.
+A collection of basic to intermediate Java programs focusing on mathematical logic implementation using loops and conditional statements — no shortcuts, just raw logic.
 
 ## What's Inside
 
@@ -25,6 +25,6 @@ This project is part of my core Java revision and logic-building practice before
 
 ## How to Run
 
-Make sure you have JDK installed. Then compile any file like this:
-
-```bash
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ANUBHAVxKZAMA/JavaMathLogic.git
