@@ -14,8 +14,6 @@ This repo includes Java programs for:
 - Square Root Check (Linear Search)
 - Square Root Check (Binary Search)
 - Prime Number Check
-- Armstrong Number Check
-- Magic Number Check
 
 ## Folder Structure
 
