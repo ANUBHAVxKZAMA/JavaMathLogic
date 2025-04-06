@@ -28,9 +28,9 @@ This project is part of my core Java revision and logic-building practice before
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ANUBHAVxKZAMA/JavaMathLogic.git
-``
-2. Navigate to the folder and compile any Java file:
-3. Run the compiled class:
+
+2. **Navigate to the folder and compile any Java file**:
+3. **Run the compiled class**:
 ---
 
 ## Author
